@@ -100,7 +100,7 @@ Division by zero is not allowed
 
 On Invalid input Error Occurs
 
-🔄 Future Improvements
+🔄 Future Improvements:
 
 Scientific calculator features (sqrt, power, etc.)
 
@@ -110,9 +110,7 @@ History of calculations
 
 Voice-based calculator
 
-👩‍💻 Author
-
-Fatimah Noman
+👩‍💻 Author : Fatimah Noman
 
 Python Learner 🚀
 
